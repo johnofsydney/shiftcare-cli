@@ -1,5 +1,4 @@
 class Duplicates
-
   attr_reader :clients
 
   def initialize(clients)
